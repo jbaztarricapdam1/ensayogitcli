@@ -2,7 +2,7 @@
 /**
  *  Para probar Git Github 
  *  desde línea de comandos
- *  
+ *  @author - Julen Baztarrica
  */
 public class TestEstudiante
 {
@@ -19,6 +19,10 @@ public class TestEstudiante
         Estudiante e3 = new Estudiante("Elisa", 26);
         e3.printEstudiante();
         
-
+        Estudiante e4 = new Estudiante("Julen", 19);
+        e4.printEstudiante();
+        
+        Estudiante e5 = new Estudiante("Baztarrica", 19);
+        e5.printEstudiante();
     }
 }
