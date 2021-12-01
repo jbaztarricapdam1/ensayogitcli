@@ -22,7 +22,5 @@ public class TestEstudiante
         Estudiante e4 = new Estudiante("Julen", 19);
         e4.printEstudiante();
         
-        Estudiante e5 = new Estudiante("Baztarrica", 19);
-        e5.printEstudiante();
     }
 }
